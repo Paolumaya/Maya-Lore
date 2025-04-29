@@ -15,14 +15,14 @@
                 "id": "57e6984b5b9b3efd",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "split-diff-view",
                   "state": {
-                    "file": "Aberration.md",
-                    "mode": "source",
-                    "source": false
+                    "aFile": ".obsidian/workspace.json",
+                    "bFile": ".obsidian/workspace.json",
+                    "aRef": ""
                   },
-                  "icon": "lucide-file",
-                  "title": "Aberration"
+                  "icon": "diff",
+                  "title": "Diff: workspace.json"
                 }
               }
             ]
@@ -217,13 +217,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "fc93a48462c305d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,9 +248,9 @@
   },
   "active": "57e6984b5b9b3efd",
   "lastOpenFiles": [
+    "Aberration.md",
     "Characters/Liam & Horace.md",
     "Characters/Seraphina & Bloom.md",
-    "Aberration.md",
     "Characters/Elara.md",
     "README.md",
     "Characters/Maya & Sadie + Amber.md",
