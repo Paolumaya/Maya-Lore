@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "87e1ebf2be1d4bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acca3a4ec6d3d60",
+        "type": "split",
+        "children": [
+          {
+            "id": "b9bff5e984da5328",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57e6984b5b9b3efd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Aberration.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Aberration"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6a06d11136160e7a",
+            "type": "split",
+            "children": [
+              {
+                "id": "d794b64b15fe803b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "60344497000c9d1b",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Characters/Liam & Horace.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Liam & Horace"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "81112c0bcc453777",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "cae4863b3d50f028",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Characters/Maya & Sadie + Amber.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Maya & Sadie + Amber"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9e1ed90ce46af4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd75b310c21b7bc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1044cbe80492d962",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3be5c96ef5766114",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "530dda74243d60bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d43e3e6f7555c1eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b70597753a872ca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6661bf484237c6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aberration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aberration"
+            }
+          },
+          {
+            "id": "8bfd35d37e36f699",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aberration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aberration"
+            }
+          },
+          {
+            "id": "39e81c2a02e10125",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "caea4d046eb991af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aberration.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aberration"
+            }
+          },
+          {
+            "id": "e920eddb41a48b1c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "57e6984b5b9b3efd",
+  "lastOpenFiles": [
+    "Characters/Liam & Horace.md",
+    "Characters/Seraphina & Bloom.md",
+    "Aberration.md",
+    "Characters/Elara.md",
+    "README.md",
+    "Characters/Maya & Sadie + Amber.md",
+    "Characters/Jasper & Willow.md",
+    "Characters/Theodore.md",
+    "Characters",
+    "Story Outline.md"
+  ]
+}
