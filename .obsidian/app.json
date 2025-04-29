@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "readableLineLength": true
 }
