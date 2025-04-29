@@ -24,8 +24,23 @@
                   "icon": "diff",
                   "title": "Diff: workspace.json"
                 }
+              },
+              {
+                "id": "8574b57e106dd57d",
+                "type": "leaf",
+                "state": {
+                  "type": "split-diff-view",
+                  "state": {
+                    "aFile": "conflict-files-obsidian-git.md",
+                    "bFile": "conflict-files-obsidian-git.md",
+                    "aRef": ""
+                  },
+                  "icon": "diff",
+                  "title": "Diff: conflict-files-obsidian-git"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "6a06d11136160e7a",
@@ -246,8 +261,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e6984b5b9b3efd",
+  "active": "8574b57e106dd57d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Reports/Aberration Phenomenon Reports/Aberration Phenomenon Subject 7 - Maya (Paolumu).md",
+    "Reports/New World Phenomena Report 5 - \"Dragon Energy\".md",
+    "Reports/New World Phenomena Report 1 - The Slaying of Xeno'jiiva.md",
+    "Reports/Aberration Phenomenon Reports",
+    "Reports",
+    "Inspiration/Sera Chatter 1.md",
+    "Inspiration/Maya Story Idea 5.md",
+    "Inspiration/Maya Story Idea 4.md",
+    "Inspiration/Maya Story Idea 3.md",
+    "Inspiration/Maya Story Idea 2.md",
+    "Inspiration/Maya Story Idea 1.md",
+    "Inspiration/Maya Chatter 2.md",
+    "Inspiration/Maya Chatter 1.md",
+    "Inspiration",
+    "Concepts/Abominations.md",
+    "Concepts/Aberration.md",
+    "Concepts",
+    "Characters/Jasper & Rowan.md",
     "Aberration.md",
     "Characters/Liam & Horace.md",
     "Characters/Seraphina & Bloom.md",
