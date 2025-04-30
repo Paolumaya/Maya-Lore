@@ -4,12 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "6a06d11136160e7a",
+        "id": "8acca3a4ec6d3d60",
         "type": "split",
         "children": [
           {
+            "id": "b9bff5e984da5328",
+            "type": "tabs",
+            "dimension": 35.42418772563177,
+            "children": [
+              {
+                "id": "57e6984b5b9b3efd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/Abomination.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Abomination"
+                }
+              },
+              {
+                "id": "cae4863b3d50f028",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Maya & Sadie + Amber.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Maya & Sadie + Amber"
+                }
+              }
+            ]
+          },
+          {
             "id": "d794b64b15fe803b",
             "type": "tabs",
+            "dimension": 32.287906137184116,
             "children": [
               {
                 "id": "60344497000c9d1b",
@@ -30,44 +68,28 @@
             ]
           },
           {
-            "id": "81112c0bcc453777",
+            "id": "081a3900bb3a92fc",
             "type": "tabs",
+            "dimension": 32.287906137184116,
             "children": [
               {
-                "id": "cae4863b3d50f028",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Maya & Sadie + Amber.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Maya & Sadie + Amber"
-                }
-              },
-              {
-                "id": "a9116fcadcebdb84",
+                "id": "bedca64d5af7bb82",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Concepts/Aberration.md",
+                    "file": "Inspiration/Maya Story Idea 5.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Aberration"
+                  "title": "Maya Story Idea 5"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -207,7 +229,7 @@
             }
           },
           {
-            "id": "fc93a48462c305d4",
+            "id": "5f03c2ebe32f5d6a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -234,36 +256,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9116fcadcebdb84",
+  "active": "57e6984b5b9b3efd",
   "lastOpenFiles": [
-    "Reports/New World Phenomena Report 5 - \"Dragon Energy\".md",
-    "Concepts/Aberration.md",
-    "Characters/Maya & Sadie + Amber.md",
     "Characters/Liam & Horace.md",
-    "conflict-files-obsidian-git.md",
-    "Reports/Aberration Phenomenon Reports/Aberration Phenomenon Subject 7 - Maya (Paolumu).md",
-    "Reports/New World Phenomena Report 1 - The Slaying of Xeno'jiiva.md",
-    "Reports/Aberration Phenomenon Reports",
-    "Reports",
-    "Inspiration/Sera Chatter 1.md",
+    "Concepts/Abomination.md",
+    "Concepts/Aberration.md",
+    "Characters/Theodore.md",
+    "Characters/Seraphina & Bloom.md",
     "Inspiration/Maya Story Idea 5.md",
     "Inspiration/Maya Story Idea 4.md",
     "Inspiration/Maya Story Idea 3.md",
-    "Inspiration/Maya Story Idea 2.md",
     "Inspiration/Maya Story Idea 1.md",
+    "Inspiration/Maya Story Idea 2.md",
     "Inspiration/Maya Chatter 2.md",
+    "Inspiration/Sera Chatter 1.md",
+    "Characters/Maya & Sadie + Amber.md",
     "Inspiration/Maya Chatter 1.md",
+    "Reports/Aberration Phenomenon Reports/Aberration Phenomenon Subject 7 - Maya (Paolumu).md",
     "Inspiration",
-    "Concepts/Abominations.md",
-    "Concepts",
     "Characters/Jasper & Rowan.md",
-    "Aberration.md",
-    "Characters/Seraphina & Bloom.md",
     "Characters/Elara.md",
+    "Reports/New World Phenomena Report 1 - The Slaying of Xeno'jiiva.md",
+    "Story Outline.md",
     "README.md",
-    "Characters/Jasper & Willow.md",
-    "Characters/Theodore.md",
-    "Characters",
-    "Story Outline.md"
+    "Reports/New World Phenomena Report 5 - \"Dragon Energy\".md",
+    "Reports/Aberration Phenomenon Reports",
+    "Reports",
+    "Monster Hunter Concepts",
+    "Untitled.md",
+    "Concepts",
+    "Characters"
   ]
 }

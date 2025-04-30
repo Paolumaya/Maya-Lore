@@ -1,6 +1,6 @@
-Discovered {NUMBER} hours after the defeat of Xeno'jiiva
+Discovered 4 hours after the defeat of Xeno'jiiva
 
-Merged with a Legiana, fully assimilating her mind into his.
+Merged with a female Legiana, fully assimilating her mind into his.
 
 Haughty and self-centered, even before becoming fused with an apex. 
 
