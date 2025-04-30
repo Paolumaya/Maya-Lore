@@ -4,97 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "8acca3a4ec6d3d60",
+        "id": "6a06d11136160e7a",
         "type": "split",
         "children": [
           {
-            "id": "b9bff5e984da5328",
+            "id": "d794b64b15fe803b",
             "type": "tabs",
             "children": [
               {
-                "id": "57e6984b5b9b3efd",
+                "id": "60344497000c9d1b",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "split-diff-view",
+                  "type": "markdown",
                   "state": {
-                    "aFile": ".obsidian/workspace.json",
-                    "bFile": ".obsidian/workspace.json",
-                    "aRef": ""
+                    "file": "Characters/Liam & Horace.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "diff",
-                  "title": "Diff: workspace.json"
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Liam & Horace"
+                }
+              }
+            ]
+          },
+          {
+            "id": "81112c0bcc453777",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cae4863b3d50f028",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Maya & Sadie + Amber.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Maya & Sadie + Amber"
                 }
               },
               {
-                "id": "8574b57e106dd57d",
+                "id": "a9116fcadcebdb84",
                 "type": "leaf",
                 "state": {
-                  "type": "split-diff-view",
+                  "type": "markdown",
                   "state": {
-                    "aFile": "conflict-files-obsidian-git.md",
-                    "bFile": "conflict-files-obsidian-git.md",
-                    "aRef": ""
+                    "file": "Concepts/Aberration.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "diff",
-                  "title": "Diff: conflict-files-obsidian-git"
+                  "icon": "lucide-file",
+                  "title": "Aberration"
                 }
               }
             ],
             "currentTab": 1
-          },
-          {
-            "id": "6a06d11136160e7a",
-            "type": "split",
-            "children": [
-              {
-                "id": "d794b64b15fe803b",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "60344497000c9d1b",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Characters/Liam & Horace.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Liam & Horace"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "81112c0bcc453777",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "cae4863b3d50f028",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Characters/Maya & Sadie + Amber.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Maya & Sadie + Amber"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -261,11 +234,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8574b57e106dd57d",
+  "active": "a9116fcadcebdb84",
   "lastOpenFiles": [
+    "Reports/New World Phenomena Report 5 - \"Dragon Energy\".md",
+    "Concepts/Aberration.md",
+    "Characters/Maya & Sadie + Amber.md",
+    "Characters/Liam & Horace.md",
     "conflict-files-obsidian-git.md",
     "Reports/Aberration Phenomenon Reports/Aberration Phenomenon Subject 7 - Maya (Paolumu).md",
-    "Reports/New World Phenomena Report 5 - \"Dragon Energy\".md",
     "Reports/New World Phenomena Report 1 - The Slaying of Xeno'jiiva.md",
     "Reports/Aberration Phenomenon Reports",
     "Reports",
@@ -279,15 +255,12 @@
     "Inspiration/Maya Chatter 1.md",
     "Inspiration",
     "Concepts/Abominations.md",
-    "Concepts/Aberration.md",
     "Concepts",
     "Characters/Jasper & Rowan.md",
     "Aberration.md",
-    "Characters/Liam & Horace.md",
     "Characters/Seraphina & Bloom.md",
     "Characters/Elara.md",
     "README.md",
-    "Characters/Maya & Sadie + Amber.md",
     "Characters/Jasper & Willow.md",
     "Characters/Theodore.md",
     "Characters",
