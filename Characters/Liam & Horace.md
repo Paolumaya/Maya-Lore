@@ -1,3 +1,5 @@
+---
+---
 scratch notes, just kinda throwing stuff at the wall and seeing what sticks.
 
 ### AKA [[Concepts/Aberration|Aberration]] Specimen #1

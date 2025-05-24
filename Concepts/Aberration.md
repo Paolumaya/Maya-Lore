@@ -1,3 +1,5 @@
+---
+---
 A fusion of monster and human.
 Caused by the massive energy release during the slaying of Xeno'jiiva.
 All appear to have some amount of control over their forms.

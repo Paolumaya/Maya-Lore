@@ -1,3 +1,5 @@
+---
+---
 ### AKA [[Concepts/Aberration|Aberration]] Specimen #5
 
 ##### Name:

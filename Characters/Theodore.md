@@ -1,3 +1,7 @@
+---
+---
+# Theodore
+
 Discovered 4 hours after the defeat of Xeno'jiiva
 
 Merged with a female Legiana, fully assimilating her mind into his.

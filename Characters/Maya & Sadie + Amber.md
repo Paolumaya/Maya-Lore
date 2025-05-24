@@ -1,3 +1,5 @@
+---
+---
 ### AKA [[Concepts/Aberration|Aberration]] Specimen #7
 #### Events Leading Up To Fusion Event:
 	Maya was assigned to an expedition to the Coral Highlands.

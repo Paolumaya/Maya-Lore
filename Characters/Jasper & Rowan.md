@@ -1,3 +1,5 @@
+---
+---
 ### AKA [[Aberration]] Specimen #4
 
 Discovered 1 day after the defeat of Xeno'jiiva
