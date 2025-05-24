@@ -10,7 +10,7 @@
           {
             "id": "b9bff5e984da5328",
             "type": "tabs",
-            "dimension": 52.31589470176607,
+            "dimension": 52.31589470176606,
             "children": [
               {
                 "id": "03c1ced9a36ad092",
@@ -33,7 +33,7 @@
           {
             "id": "d794b64b15fe803b",
             "type": "tabs",
-            "dimension": 47.68410529823392,
+            "dimension": 47.68410529823394,
             "children": [
               {
                 "id": "60344497000c9d1b",
@@ -55,12 +55,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Characters/Elara.md",
+                    "file": "Characters/Seraphina & Bloom.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Elara"
+                  "title": "Seraphina & Bloom"
                 }
               }
             ],
@@ -234,32 +234,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f03c2ebe32f5d6a",
+  "active": "622336a5bad68c9a",
   "lastOpenFiles": [
+    "Characters/Jasper & Rowan.md",
+    "Characters/Liam & Horace.md",
+    "Characters/Maya & Sadie + Amber.md",
+    "Characters/Elara.md",
+    "README.md",
+    "Maya Cliff Notes.md",
     "Templates/Character Note.md",
-    "Inspiration/Maya Chatter 2.md",
+    "Reports/New World Phenomena Report 1 - The Slaying of Xeno'jiiva.md",
+    "Reports/Aberration Phenomenon Reports/Aberration Phenomenon Subject 7 - Maya (Paolumu).md",
+    "Concepts/Abomination.md",
+    "Concepts/Aberration.md",
     "Inspiration/Maya Chatter 1.md",
+    "Characters/Seraphina & Bloom.md",
+    "Characters/Theodore.md",
+    "Inspiration/Maya Chatter 2.md",
     "Inspiration/Maya Story Idea 1.md",
     "Inspiration/Maya Story Idea 2.md",
-    "Characters/Seraphina & Bloom.md",
-    "Characters/Elara.md",
-    "Characters/Liam & Horace.md",
-    "Characters/Jasper & Rowan.md",
-    "Characters/Maya & Sadie + Amber.md",
     "().md",
     "Inspiration/Sera Chatter 1.md",
     "Templates",
     "Inspiration/Maya Story Idea 5.md",
-    "Concepts/Abomination.md",
-    "Concepts/Aberration.md",
-    "Characters/Theodore.md",
     "Inspiration/Maya Story Idea 4.md",
     "Inspiration/Maya Story Idea 3.md",
-    "Reports/Aberration Phenomenon Reports/Aberration Phenomenon Subject 7 - Maya (Paolumu).md",
     "Inspiration",
-    "Reports/New World Phenomena Report 1 - The Slaying of Xeno'jiiva.md",
     "Story Outline.md",
-    "README.md",
     "Reports/New World Phenomena Report 5 - \"Dragon Energy\".md",
     "Reports/Aberration Phenomenon Reports",
     "Reports",
