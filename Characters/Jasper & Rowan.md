@@ -1,6 +1,6 @@
 ---
 ---
-### AKA [Aberration](Concepts/Aberration.md) Specimen #4
+## AKA [Aberration](Concepts/Aberration.md) Specimen #4
 
 Discovered 1 day after the defeat of Xeno'jiiva
 

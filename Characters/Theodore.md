@@ -1,6 +1,6 @@
 ---
 ---
-# Theodore
+## AKA [Aberration](Concepts/Aberration) Specimen #2
 
 Discovered 4 hours after the defeat of Xeno'jiiva
 

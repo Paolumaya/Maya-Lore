@@ -1,21 +1,22 @@
 ---
 ---
-##### Name(s):
+## AKA [Aberration](Concepts/Aberration) Specimen #3
+### Name(s):
 Elara
-##### Pre-integration Occupation:
+### Pre-integration Occupation:
 Researcher specializing in the Coral Highlands' Small Monsters and Endemic Life
-##### Integrated Species:
+### Integrated Species:
 - Human (Female)
 - Tzitzi-Ya-Ku (Female)
-##### General Description of Form:
+### General Description of Form:
 
-##### Reaction to Dragon Energy Exposure/Overexposure:
+### Reaction to Dragon Energy Exposure/Overexposure:
 
-##### Discovered By Guild:
+### Discovered By Guild:
 
-##### Given Reason For Close Contact With Monster(s):
+### Given Reason For Close Contact With Monster(s):
 
-##### Initial Reaction:
+### Initial Reaction:
 
-##### Reaction In The Time Since:
+### Reaction In The Time Since:
 
