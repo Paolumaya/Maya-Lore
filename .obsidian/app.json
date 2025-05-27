@@ -3,6 +3,6 @@
   "rightToLeft": false,
   "showLineNumber": false,
   "readableLineLength": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "absolute"
 }

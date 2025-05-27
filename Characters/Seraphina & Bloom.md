@@ -1,6 +1,6 @@
 ---
 ---
-### AKA [[Concepts/Aberration|Aberration]] Specimen #5
+### AKA [Aberration](Concepts/Aberration) Specimen #5
 
 ##### Name:
 Seraphina
