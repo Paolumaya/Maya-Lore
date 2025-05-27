@@ -5,9 +5,10 @@
 Elara
 ### Pre-integration Occupation:
 Researcher specializing in the Coral Highlands' Small Monsters and Endemic Life
-### Integrated Species:
+### Classification and Integrated Species:
 - Human (Female)
 - Tzitzi-Ya-Ku (Female)
+
 ### General Description of Form:
 
 ### Reaction to Dragon Energy Exposure/Overexposure:

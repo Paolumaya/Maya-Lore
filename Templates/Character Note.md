@@ -1,18 +1,19 @@
 ### AKA [Aberration](Concepts/Aberration.md) Specimen #(#)
-##### Name(s):
+## Name(s):
 
-##### Integrated Species:
+## Classification and Integrated Species:
 
-##### Pre-integration Occupation (if applicable):
-##### Description of Form:
+## Pre-integration Occupation (if applicable):
 
-##### Reaction to Dragon Energy Exposure/Overexposure:
+## Description of Form:
 
-##### Discovered By Guild:
+## Reaction to Dragon Energy Exposure/Overexposure:
 
-##### Given Reason For Close Contact With Monster(s):
+## Discovered By Guild:
 
-##### Initial Reaction:
+## Given Reason For Close Contact With Monster(s):
 
-##### Reaction In The Time Since:
+## Initial Reaction:
+
+## Reaction In The Time Since:
 
