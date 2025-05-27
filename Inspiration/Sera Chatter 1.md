@@ -1,6 +1,6 @@
-Okay, this is a fantastic and unique concept! A human-Pukei fusion where the Pukei is essentially the tail/head is visually striking and full of potential. Let's expand on Seraphina and Bloom:
+Okay, this is a fantastic and unique concept! A human-Pukei integration where the Pukei is essentially the tail/head is visually striking and full of potential. Let's expand on Seraphina and Bloom:
 
-**I. Deepening the Fusion Mechanics & Physicality:**
+**I. Deepening the Integration Mechanics & Physicality:**
 
 1. **Bloom's Functionality:**
     
@@ -20,13 +20,13 @@ Okay, this is a fantastic and unique concept! A human-Pukei fusion where the Puk
 1. **Seraphina's Past:**
     
     - **Why Raise Bloom?** This is highly unusual and dangerous. Was Sera a researcher studying monster behavior? A Fiver who felt isolated and formed an unlikely bond? A failed hunter seeking redemption or connection? Was she part of a fringe group trying to understand monsters better? Giving her a strong motivation makes her actions more believable.
-    - **Skills Pre-Fusion:** What was she good at? Tracking? Survival? Combat? Research? How do these skills translate now? Is her tracking enhanced by Pukei senses? Is her combat complicated by Bloom?
-    - **Personality Pre-Fusion:** Was she secretive? Rebellious? Compassionate? How does the fusion amplify or conflict with her core traits?
+    - **Skills Pre-Integration:** What was she good at? Tracking? Survival? Combat? Research? How do these skills translate now? Is her tracking enhanced by Pukei senses? Is her combat complicated by Bloom?
+    - **Personality Pre-Integration:** Was she secretive? Rebellious? Compassionate? How does the integration amplify or conflict with her core traits?
 2. **Bloom's Personality:**
     
     - **Beyond "Young":** Is he playful, curious, timid, aggressive, mischievous? How does this manifest in their shared life? Does he get bored easily? Does he have specific fears or affections?
     - **Instincts:** Do Pukei instincts bleed through? Does he try to hoard shiny objects? Does he get spooked by loud noises or specific predators (even if Sera isn't scared)? Does he instinctively try to puff up or display when startled?
-    - **Relationship with Sera:** Does he see her purely as a parent figure? Does he understand the fusion? Does he ever resent the lack of full autonomy, or does he feel secure being constantly connected?
+    - **Relationship with Sera:** Does he see her purely as a parent figure? Does he understand the integration? Does he ever resent the lack of full autonomy, or does he feel secure being constantly connected?
 
 **III. Exploring the Dragon Energy Aspect:**
 
@@ -49,7 +49,7 @@ Okay, this is a fantastic and unique concept! A human-Pukei fusion where the Puk
 3. **Unique Advantages:** Their combined form could be great for specific tasks. Sera's strategy + Bloom's poison/senses/tongue could make them effective investigators or even specialized hunters.
 4. **Conflict Ideas:**
     - Someone wants to capture/study/weaponize them.
-    - They need to find a specific item/place to stabilize their fusion.
+    - They need to find a specific item/place to stabilize their integration.
     - Bloom's instincts lead them into danger or towards a discovery.
     - Internal conflict: Sera wanting normalcy vs. accepting her new reality; Bloom wanting more freedom/fun vs. understanding consequences.
     - Encountering the monster that orphaned Bloom, forcing a confrontation.

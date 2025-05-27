@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "readableLineLength": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "tabSize": 3
 }

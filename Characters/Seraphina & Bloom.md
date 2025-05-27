@@ -4,7 +4,7 @@
 
 ##### Name:
 Seraphina
-##### Pre-fusion Occupation:
+##### Pre-Integration Occupation:
 Hunter (Bow Specialist)
 ##### Fused Monster(s):
 A young male [Pukei-Pukei](https://monsterhunterwiki.org/wiki/Pukei-Pukei) she had named Bloom

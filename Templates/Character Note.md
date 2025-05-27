@@ -1,10 +1,10 @@
-##### Name:
+### AKA [Aberration](Concepts/Aberration.md) Specimen #(#)
+##### Name(s):
 
-##### Pre-fusion Occupation:
+##### Integrated Species:
 
-##### Fused Monsters:
-
-##### General Description of Form:
+##### Pre-integration Occupation (if applicable):
+##### Description of Form:
 
 ##### Reaction to Dragon Energy Exposure/Overexposure:
 

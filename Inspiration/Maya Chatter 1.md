@@ -1,6 +1,6 @@
-Okay, this is a fascinating and well-developed concept! Maya's fusion with two Paolumu, the resulting internal dynamic, her unique powers, and her personality shift create a rich character. Here are some areas you could explore further to add even more depth:
+Okay, this is a fascinating and well-developed concept! Maya's integration with two Paolumu, the resulting internal dynamic, her unique powers, and her personality shift create a rich character. Here are some areas you could explore further to add even more depth:
 
-**I. The Fusion Mechanics & Internal Dynamics:**
+**I. The Integration Mechanics & Internal Dynamics:**
 
 1. **Shared Consciousness/Sensation:**
     
@@ -8,7 +8,7 @@ Okay, this is a fascinating and well-developed concept! Maya's fusion with two P
     - Do they share sensory input? Can Sadie and Amber see/hear/smell independently through their own heads? Can Maya perceive through their senses? Is it overwhelming sometimes?
     - How do they communicate internally? Is it spoken thought, pure emotion, imagery?
     - How do they resolve disagreements or conflicting instincts/desires? Who usually "wins"? Is there a dominant personality, or is it situational?
-    - Do Sadie and Amber retain their full Paolumu intelligence/instincts, or have they been somewhat "uplifted" or altered by the fusion with a human mind?
+    - Do Sadie and Amber retain their full Paolumu intelligence/instincts, or have they been somewhat "uplifted" or altered by the integration with a human mind?
 2. **Physical Integration Details:**
     
     - Where _exactly_ do Sadie and Amber's necks emerge? Is it symmetrical? Does it cause Maya any physical discomfort or strain when they move?

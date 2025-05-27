@@ -16,7 +16,7 @@ Worse, far worse, was the sensation at the back of her head. A sickening pressur
 
 Panic, primal and absolute, seized all three minds at once. Maya shrieked, a sound distorted by the sudden presence of Sadie and Amber’s own panicked cries echoing in her skull. She flailed, her new, immense lower body crashing clumsily against the coral. The two Paolumu heads writhed blindly, adding to the chaos. The combined terror was a feedback loop, amplifying itself until conscious thought dissolved into pure, instinctual flight.
 
-When some semblance of control returned, Maya found herself deeper in the Highlands, wedged into a dense thicket of luminescent flora. The world swam. Her body felt alien, monstrously large and wrong. The constant, low thrum of Sadie and Amber’s fear resonated within her own chest. She could feel the dull ache from their pre-fusion injuries as if they were her own.
+When some semblance of control returned, Maya found herself deeper in the Highlands, wedged into a dense thicket of luminescent flora. The world swam. Her body felt alien, monstrously large and wrong. The constant, low thrum of Sadie and Amber’s fear resonated within her own chest. She could feel the dull ache from their pre-integration injuries as if they were her own.
 
 Looking down, she saw thick, white-furred Paolumu legs ending in clawed feet. Tentatively, she reached back, fingers brushing against soft fur, tracing the impossible curve of a long neck attached… to her. She snatched her hand back as if burned.
 

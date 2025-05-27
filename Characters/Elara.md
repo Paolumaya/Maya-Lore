@@ -1,11 +1,12 @@
 ---
 ---
-##### Name:
+##### Name(s):
 Elara
-##### Pre-fusion Occupation:
-Researcher specializing in the Coral Highlands
-##### Fused Monster(s):
-Tzitzi-Ya-Ku
+##### Pre-integration Occupation:
+Researcher specializing in the Coral Highlands' Small Monsters and Endemic Life
+##### Integrated Species:
+- Human (Female)
+- Tzitzi-Ya-Ku (Female)
 ##### General Description of Form:
 
 ##### Reaction to Dragon Energy Exposure/Overexposure:
