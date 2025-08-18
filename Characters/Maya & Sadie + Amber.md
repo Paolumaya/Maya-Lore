@@ -34,14 +34,23 @@
 ## Reaction to Dragon Energy Exposure/Overexposure:
 ### ***WARNING! Exposing Integrated Beings to Dragon Energy is extremely dangerous!***
 - Low-to-Moderate Exposure:
+<<<<<<< HEAD
 	- Subject is able to alter their form in more extreme ways, as well as growing larger than- *the words "any known monster", with a note in the margin reading "MAXIMUM UNKNOWN; DO NOT TEST!!!"*
 - High-to-Extreme Exposure:
 	- Subject experiences a total loss of control over form and fine motor functions, often followed swiftly by an emotional breakdown. *a red arrow leads to another margin note: "NEVER ALLOW THIS!!!"*
+=======
+	- Subject is able to alter their form in more extreme ways, shrinking smaller and growing larger than 
+- High-to-Extreme Exposure:
+	- Subject experiences a total loss of control over form, emotions, and fine motor functions.
+>>>>>>> origin/main
 	- Depending on emotions expressed, individual parts, or entire body, may grow or shrink.
 
 ## Discovered By Guild:
 - Subject was discovered 2 weeks after the defeat of Xeno'jiiva in the Coral Highlands.
+<<<<<<< HEAD
 - Subject allegedly spent most of that time in deep distress, struggling to control herself and her form due to the residual energy.
+=======
+>>>>>>> origin/main
 
 ## Given Reason For Close Contact With Monster(s):
 - Maya was assigned to an expedition to the Coral Highlands.
