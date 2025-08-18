@@ -10,9 +10,9 @@ Maya, similar to all previous subjects, exhibits anomalous physical capabilities
 
 **Key Findings & Implications:**
 
-- Subject Maya represents an exceptional case of Aberration, demonstrating a unique dual-Paolumu integration and remarkable shape-shifting abilities tied to Dragon Energy.
+- Subject Maya represents an exceptional case of Aberration, demonstrating a unique dual-Paolumu fusion and remarkable shape-shifting abilities tied to Dragon Energy.
 - Her altered state has provided invaluable, first-hand insights into Paolumu biology and behavior, facilitating unprecedented close-range observation.
-- Initial reaction to the integration involved significant distress and a period of isolation, highlighting the psychological impact of Aberration events. Intervention by another Aberration (Subject [Elara](Characters/Elara)) proved crucial in the subject's acclimation and retrieval by the Guild.
+- Initial reaction to the fusion involved significant distress and a period of isolation, highlighting the psychological impact of Aberration events. Intervention by another Aberration (Subject [Elara](Characters/Elara)) proved crucial in the subject's acclimation and retrieval by the Guild.
 
 **Recommendations:**
 

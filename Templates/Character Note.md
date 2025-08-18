@@ -3,7 +3,7 @@
 
 ##### Integrated Species:
 
-##### Pre-integration Occupation (if applicable):
+##### Pre-fusion Occupation (if applicable):
 ##### Description of Form:
 
 ##### Reaction to Dragon Energy Exposure/Overexposure:

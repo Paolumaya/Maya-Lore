@@ -3,7 +3,7 @@
 ## AKA [Aberration](Concepts/Aberration) Specimen #3
 ### Name(s):
 Elara
-### Pre-integration Occupation:
+### Pre-fusion Occupation:
 Researcher specializing in the Coral Highlands' Small Monsters and Endemic Life
 ### Integrated Species:
 - Human (Female)

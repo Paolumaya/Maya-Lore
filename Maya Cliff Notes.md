@@ -6,8 +6,8 @@ Okay, first semi-public draft of this lore ig
 - New World - Setting of the game Monster Hunter World, largely untamed land, with varied locales
 - The Guild - Group of Hunters, Researchers, and support crew that are exploring the New World
 - Paolumu - A giant fluffy white bat-platypus dragon that can puff up their necks to float around and intimidate potential predators.
-- Aberration - Guild name for a integration of a monster and a human
-- Abomination - Guild name for a integration of two monsters
+- Aberration - Guild name for a fusion of a monster and a human
+- Abomination - Guild name for a fusion of two monsters
 - Dragon Energy - (Working name) Blue energy that has extreme, untapped power. A large burst of it was released when a group of hunters beat a giant monster (the final story boss of the base game of MHW)
 
 ## CANON UNIVERSE (Monster Hunter World AU)

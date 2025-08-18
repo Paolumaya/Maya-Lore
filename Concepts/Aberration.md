@@ -1,6 +1,6 @@
 ---
 ---
-An integration of monster and human.
+An fusion of [Eldertouched](Concepts/Eldertouched.md) monsters and humans.
 Caused by the massive energy release during the slaying of Xeno'jiiva.
 All appear to have some amount of control over their forms.
 Observations on this front have found some sort of latent connection between Aberrations and the crystals in the Elder's Recess, which pulse with what has been nicknamed "Dragon Energy"
