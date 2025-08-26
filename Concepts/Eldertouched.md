@@ -1,1 +1,0 @@
-Beings affected by the Eldertaint.

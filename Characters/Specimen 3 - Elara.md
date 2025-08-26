@@ -1,6 +1,5 @@
 ---
 ---
-## AKA [Aberration](Concepts/Aberration) Specimen #3
 ### Name(s):
 Elara
 ### Pre-fusion Occupation:

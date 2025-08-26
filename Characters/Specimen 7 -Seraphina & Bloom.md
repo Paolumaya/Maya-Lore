@@ -1,7 +1,5 @@
 ---
 ---
-## AKA [Aberration](Concepts/Aberration) Specimen #5
-
 ## Name:
 Seraphina
 ## Pre-fusion Occupation:

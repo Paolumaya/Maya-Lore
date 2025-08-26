@@ -1,1 +1,0 @@
-Macroflora created from exposure to Eldertaint.

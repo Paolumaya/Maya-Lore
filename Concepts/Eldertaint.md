@@ -1,1 +1,0 @@
-A new energy released by Xeno'jiiva, which radically altered the lives of the local flora & fauna, as well as the Hunter's Guild bases located around the island.

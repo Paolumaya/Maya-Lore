@@ -1,4 +1,4 @@
-### AKA [Aberration](Concepts/Aberration.md) Specimen #(#)
+### AKA [Aberration](Glossary.md) Specimen #(#)
 ## Name(s):
 
 ## Classification and Integrated Species:

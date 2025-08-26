@@ -1,13 +1,12 @@
 ---
 ---
-### AKA [Aberration](Concepts/Aberration) Specimen #7
 ## Name:
 - "Human": Maya
 - Monster(s): Sadie (given name), Amber (given name)
 
 ## Classification and Integrated Species:
 - ### Aberration/[Intraspecies Abomination](Concepts/Abomination.md) Hybrid
-	- Originally
+	- Originally:
 		- One adult female human
 		- Two adult Paolumu, one male, one female
 
@@ -16,12 +15,12 @@
 
 ## Description of Form:
 ### ***IMPORTANT NOTE: Due to the abnormal circumstances of her dual fusion, subject's body is not static. The following are the Subject's self-expressed "favorite forms"***
-- #### Most Commonly Observed Form ("Bipedal Taur"):
+- #### Most Common Form ("Bipedal Taur"):
 	- Subject's upper segment resembles a humanoid torso, with key differences being:
 		- A thin layer of white fur across the sides, back, shoulders, and head; brown fur on the stomach and arms, and pink skin on the face
 		- Subject has four arms rather than two.
-		- Humanoid neck has a permanent fluffy collar.
-		- Two long tubes of fur extend from the back of subject's head, ending in the heads of the two Paolumu she bonded with
+		- Humanoid neck is long, and can inflate similarly to a Paolumu's neck.
+		- Two long tubes of fur extend from the back of subject's head, ending in scaled-down versions of the heads of the two Paolumu she bonded with.
 		- Arms end in brown fur, looking similar to normal Paolumu legs, but lacking scales and with human-like hands.
 	- Lower half looks like a normal Paolumu, with the exception of having both male and female gonads.
 	- Abnormally large, far outstripping the size of the largest adult Paolumu on record at 1752.61 centimeters long.
@@ -30,27 +29,19 @@
 		- Wings protrude from upper torso's back
 	- Lower segment takes on four legs in an arrangement similar to a Kirin.
 		- Legs are otherwise similar to standard Paolumu legs.
+- #### 
 
 ## Reaction to Dragon Energy Exposure/Overexposure:
 ### ***WARNING! Exposing Integrated Beings to Dragon Energy is extremely dangerous!***
 - Low-to-Moderate Exposure:
-<<<<<<< HEAD
 	- Subject is able to alter their form in more extreme ways, as well as growing larger than- *the words "any known monster", with a note in the margin reading "MAXIMUM UNKNOWN; DO NOT TEST!!!"*
 - High-to-Extreme Exposure:
 	- Subject experiences a total loss of control over form and fine motor functions, often followed swiftly by an emotional breakdown. *a red arrow leads to another margin note: "NEVER ALLOW THIS!!!"*
-=======
-	- Subject is able to alter their form in more extreme ways, shrinking smaller and growing larger than 
-- High-to-Extreme Exposure:
-	- Subject experiences a total loss of control over form, emotions, and fine motor functions.
->>>>>>> origin/main
 	- Depending on emotions expressed, individual parts, or entire body, may grow or shrink.
 
 ## Discovered By Guild:
 - Subject was discovered 2 weeks after the defeat of Xeno'jiiva in the Coral Highlands.
-<<<<<<< HEAD
 - Subject allegedly spent most of that time in deep distress, struggling to control herself and her form due to the residual energy.
-=======
->>>>>>> origin/main
 
 ## Given Reason For Close Contact With Monster(s):
 - Maya was assigned to an expedition to the Coral Highlands.
