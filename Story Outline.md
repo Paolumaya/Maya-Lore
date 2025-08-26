@@ -1,5 +1,3 @@
----
----
 Setting: The New World: Astera, Coral Highlands, and the Elder's Recess
 Characters:
 - Maya

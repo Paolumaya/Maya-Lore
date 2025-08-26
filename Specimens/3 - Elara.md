@@ -1,5 +1,3 @@
----
----
 ### Name(s):
 Elara
 ### Pre-fusion Occupation:

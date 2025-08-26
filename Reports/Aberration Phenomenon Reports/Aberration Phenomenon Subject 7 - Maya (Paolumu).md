@@ -2,7 +2,7 @@
 ---
 **Observation Summary:**
 
-Subject self reports as [Maya](Characters/Specimen%208%20-%20Maya%20&%20Sadie%20+%20Amber.md), a Paolumu Researcher sent to the Coral Highlands three weeks ago.
+Subject self reports as [Maya](Specimens/8%20-%20Maya%20&%20Sadie%20+%20Amber.md), a Paolumu Researcher sent to the Coral Highlands three weeks ago.
 
 Subject's "relaxed" form presents a distinct, "wyvern-taur" configuration, wherein her upper torso has adopted Paolumu-like characteristics, including white fur, large ears, and claws, and is attached at the waist to the neck of a relatively-large, but otherwise normal Paolumu. Notably, the heads and elongated necks of the two Paolumu specimens she fused with extend from the back of her head, and display a degree of independent movement. Subject reports little-to-no control over the two, likening them more to Canynes on leashes.
 
@@ -12,7 +12,7 @@ Maya, similar to all previous subjects, exhibits anomalous physical capabilities
 
 - Subject Maya represents an exceptional case of Aberration, demonstrating a unique dual-Paolumu fusion and remarkable shape-shifting abilities tied to Dragon Energy.
 - Her altered state has provided invaluable, first-hand insights into Paolumu biology and behavior, facilitating unprecedented close-range observation.
-- Initial reaction to the fusion involved significant distress and a period of isolation, highlighting the psychological impact of Aberration events. Intervention by another Aberration (Subject [Specimen 3 - Elara](Characters/Specimen%203%20-%20Elara.md)) proved crucial in the subject's acclimation and retrieval by the Guild.
+- Initial reaction to the fusion involved significant distress and a period of isolation, highlighting the psychological impact of Aberration events. Intervention by another Aberration (Subject [3 - Elara](Specimens/3%20-%20Elara.md)) proved crucial in the subject's acclimation and retrieval by the Guild.
 
 **Recommendations:**
 

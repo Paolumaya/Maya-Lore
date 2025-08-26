@@ -1,9 +1,8 @@
-### AKA [Aberration](Glossary.md) Specimen #(#)
 ## Name(s):
 
 ## Classification and Integrated Species:
 
-## Pre-integration Occupation (if applicable):
+## Pre-Voidtouched Occupation (if applicable):
 
 ## Description of Form:
 

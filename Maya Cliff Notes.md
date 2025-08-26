@@ -1,5 +1,3 @@
----
----
 Okay, first semi-public draft of this lore ig
 
 # QUICK GLOSSARY:

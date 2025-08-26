@@ -1,5 +1,3 @@
----
----
 ## Name:
 Seraphina
 ## Pre-fusion Occupation:

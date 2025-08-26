@@ -1,11 +1,9 @@
----
----
 ## Name:
 - "Human": Maya
 - Monster(s): Sadie (given name), Amber (given name)
 
-## Classification and Integrated Species:
-- ### Aberration/[Intraspecies Abomination](Concepts/Abomination.md) Hybrid
+## Classification and Species:
+- ### Aberration/[[Glossary#Intraspecies Abominations|Intraspecies Abomination]] Hybrid
 	- Originally:
 		- One adult female human
 		- Two adult Paolumu, one male, one female
@@ -14,7 +12,11 @@
 - Large Monster Researcher, specialized in Paolumu
 
 ## Description of Form:
-### ***IMPORTANT NOTE: Due to the abnormal circumstances of her dual fusion, subject's body is not static. The following are the Subject's self-expressed "favorite forms"***
+> [!info] 
+>
+> Due to the abnormal circumstances of her dual fusion, subject's default form is not static.
+>  The following are the subject's self-expressed "favorite forms":
+
 - #### Most Common Form ("Bipedal Taur"):
 	- Subject's upper segment resembles a humanoid torso, with key differences being:
 		- A thin layer of white fur across the sides, back, shoulders, and head; brown fur on the stomach and arms, and pink skin on the face
@@ -22,17 +24,19 @@
 		- Humanoid neck is long, and can inflate similarly to a Paolumu's neck.
 		- Two long tubes of fur extend from the back of subject's head, ending in scaled-down versions of the heads of the two Paolumu she bonded with.
 		- Arms end in brown fur, looking similar to normal Paolumu legs, but lacking scales and with human-like hands.
-	- Lower half looks like a normal Paolumu, with the exception of having both male and female gonads.
+	- Lower half looks like a normal Paolumu.
 	- Abnormally large, far outstripping the size of the largest adult Paolumu on record at 1752.61 centimeters long.
 - #### Alternative Form ("Quadrupedal Taur")
 	- Upper segment is as above with additional deviations including:
 		- Wings protrude from upper torso's back
 	- Lower segment takes on four legs in an arrangement similar to a Kirin.
 		- Legs are otherwise similar to standard Paolumu legs.
-- #### 
 
 ## Reaction to Dragon Energy Exposure/Overexposure:
-### ***WARNING! Exposing Integrated Beings to Dragon Energy is extremely dangerous!***
+> [!danger]
+> 
+> Hunters are advised to NEVER expose any specimen to 
+> Exposing Eldertouched Beings to Dragon Energy is extremely dangerous!
 - Low-to-Moderate Exposure:
 	- Subject is able to alter their form in more extreme ways, as well as growing larger than- *the words "any known monster", with a note in the margin reading "MAXIMUM UNKNOWN; DO NOT TEST!!!"*
 - High-to-Extreme Exposure:
