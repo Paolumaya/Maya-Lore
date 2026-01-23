@@ -1,6 +1,5 @@
 Name: Maya (Short for Lumaya, greatly prefers the shortened name)
-
-Forms are not static.
+Based (very loosely) on: the species Paolumu from Monster Hunter World
 
 Generally prefer the right-side taur features (big hands, multi-arms, head-tail... things, neck fluff) but with 4 legs as with the left taur body type.
 
@@ -13,6 +12,15 @@ Biped form is almost never multi.
 
 
 
-Please don't "wing it" with my character's design.
-I'm VERY particular about the specific details, and I will ask you to redraw them if need be. Thank you for understanding.
+#### Please don't "wing it" with my character's design.
+
+I'm VERY particular about the specific details:
+- Wingtips
+	- Should always have exactly 4 "fingers, all originating from the final joint of the wing
+	- Also never use 'wing-arms' unless specifically requested)
+- Ears (I don't have fluff in my ears)
+- Feet & Tail
+	- Both are covered in rough, rubbery scales.
+- Facial Structure
+	- "vaguely canine" is usually fine. Edits will only be requested if absolutely needed.
 ![[ref_donts.png]]
