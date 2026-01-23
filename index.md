@@ -1,4 +1,4 @@
-# Welcome to my Site (don't look at the sidebar please okay thanks)
-![[IMG_8177.png]]
+# Welcome to my Site (don't look at the sidebar. please? okay thanks)
 
-![[IMG_8182.png]]
+### [[Ref Sheet]] <- here
+![[IMG_8177.png]]
