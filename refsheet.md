@@ -1,3 +1,6 @@
+---
+title: Ref Sheet
+---
 ### Name: Maya (Short for Lumaya, greatly prefers the shortened name)
 ### Species: Based (very loosely) on a [Paolumu](https://monsterhunter.fandom.com/wiki/Paolumu) from Monster Hunter World
 
@@ -11,14 +14,6 @@
 
 
 #### Please don't "wing it" with my character's design.
-
-I'm VERY particular about the specific details:
-- Wingtips
-	- Should always have exactly 4 "fingers, all originating from the final joint of the wing
-	- Also never use 'wing-arms' unless specifically requested)
-- Ears (I don't have fluff in my ears)
-- Feet & Tail
-	- Both are covered in rough, rubbery scales.
-- Facial Structure
-	- "vaguely canine" is usually fine. Edits will only be requested if absolutely needed.
+I understand my design is on the complicated side. If you feel the need to charge a complexity fee, then, by all means, do.
+But don't just ignore aspects of my design because you don't want to draw it.
 ![[ref_donts.png]]
