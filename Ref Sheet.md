@@ -1,12 +1,10 @@
-Name: Maya (Short for Lumaya, greatly prefers the shortened name)
-Based (very loosely) on: the species Paolumu from Monster Hunter World
-
-Generally prefer the right-side taur features (big hands, multi-arms, head-tail... things, neck fluff) but with 4 legs as with the left taur body type.
-
-Sorry I didn't get that drawn :(
+### Name: Maya (Short for Lumaya, greatly prefers the shortened name)
+### Species: Based (very loosely) on a [Paolumu](https://monsterhunter.fandom.com/wiki/Paolumu) from Monster Hunter World
 
 
-Biped form is almost never multi.
+##### Art notes: 
+- Generally prefer the right-side taur features (big hands, multi-arms, head-tail... things, neck fluff) but with 4 legs as with the left taur body type.
+	- Sorry I didn't get that drawn :(
 
 ![[ref_sheet.png]]
 
