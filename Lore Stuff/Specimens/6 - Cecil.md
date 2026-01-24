@@ -3,7 +3,7 @@
 - Monster(s): ???
 
 ## Classification and Integrated Species:
-- ### [[Glossary#Aberration|Aberration]]/[Intraspecies Abomination](Concepts/Abomination.md) Hybrid
+- ### [[Lore Stuff/Glossary#Aberration|Aberration]]/[Intraspecies Abomination](Concepts/Abomination.md) Hybrid
 	- Originally
 		- One adult human, male
 		- One adult Odogaron, male
