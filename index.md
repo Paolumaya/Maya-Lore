@@ -1,8 +1,11 @@
 ---
 title: Home Page
+description: My website :)
 ---
+# Welcome to my website
+![[images/Lumu_Bunny.png]]
+## Home to:
+- ###  "Lore"
+- ### General Ideas & Information About My Character
 
-# Welcome to my Site (don't look at the sidebar. please? okay thanks)
-
-### [[refsheet]] <- here
-![[IMG_8177.png]]
+# [[refsheet|-> Here is Maya's Refsheet <-]] 
