@@ -3,7 +3,7 @@
 - Monster(s): Sadie (given name), Amber (given name)
 
 ## Classification and Species:
-- ### Aberration/[[Lore Stuff/Glossary#Intraspecies Abominations|Intraspecies Abomination]] Hybrid
+- ### Aberration/[[Glossary#Intraspecies Abominations|Intraspecies Abomination]] Hybrid
 	- Originally:
 		- One adult female human
 		- Two adult Paolumu, one male, one female
